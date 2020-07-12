@@ -68,8 +68,8 @@ Facebook Developer Circles Training Scholarship
 ## Coming soon...
 
 Research Engineer
+--- 
 
----
 <!--
 # 🗂️ Projects
 
@@ -124,7 +124,6 @@ Research Engineer
 
 A Proof-of-concept Smart Street Lighting system. The FRDM-KL25Z microcontroller is housed on street lights 5kms apart. It collects ambient lighting data throughout the day and uploads it to a phant server. The collected data can be analysed by Machine Learning algorithms and then used to toggle the street lamps to save power.
 -->
----
 
 # 💼 Work Experience
 
