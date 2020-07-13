@@ -182,11 +182,6 @@ Role: Junior Developer, Payments Module
 - SQL
 - Java
 
-- Docker
-- Solidity
-- JavaScript
-- Michelson
-
 ---
 
 # 🗣 Languages
