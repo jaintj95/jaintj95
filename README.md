@@ -21,13 +21,11 @@ I'm Tejas, a self taught programmer based in India with 1.5 years of industry ex
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jaintj95)
 
-🖥️ [Github](https://github.com/jaintj95)
-
 💻 [Leetcode](https://leetcode.com/codeknight11/)
 
-👨🏻‍🏫 [MentorCruise](https://mentorcruise.com/mentor/TejasJain/)
+🏫 [MentorCruise](https://mentorcruise.com/mentor/TejasJain/)
 
-👨🏻‍💻 [HackerNoon Blog](https://hackernoon.com/@jaintj95)
+💻 [HackerNoon Blog](https://hackernoon.com/@jaintj95)
 
 ---
 
