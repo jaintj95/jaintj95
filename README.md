@@ -12,12 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Resume
 
 > Hi 👋🏽
-I'm Tejas, a self taught programmer based in India with 1.5 years of industry experience and 2 years of freelancing experience in various domains.
+I'm Tejas, a self taught programmer based in India with 1.5 years of industry experience and 2 years of freelancing experience in various domains. 
 
-# 🗺️ Bangalore, India
+[![Tejas' Github stats](https://github-readme-stats.vercel.app/api?username=jaintj95&show_icons=true&icon_color=2f80ed)](https://github.com/anuraghazra/github-readme-stats)
+
+
+# 🗺️ India
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jaintj95)
 
@@ -180,10 +184,20 @@ Role: Junior Developer, Payments Module
 - SQL
 - Java
 
+<!---
+|      ML       |    Others     |
+| ------------- | ------------- |
+| PyTorch       |   Python      |
+| Tensorflow    |    Java       |
+| AWS           | Git           |
+| Keras         | SQL           |
+-->
+
 ---
 
 # 🗣 Languages
 
+<!---
 ### English 🇺🇸
 
 Full Working Proficiency
@@ -195,6 +209,11 @@ Native Speaker
 ### German 🇩🇪
 
 Elementary Proficiency
+-->
+
+|      English 🇺🇸          |    Hindi  🇮🇳    |    German   :de:       |
+| ------------------------ | -------------- | ---------------------- |
+| Full Working Proficiency | Native Speaker | Elementary Proficiency |
 
 ---
 
