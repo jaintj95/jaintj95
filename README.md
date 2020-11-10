@@ -27,7 +27,7 @@ I'm Tejas, a self taught programmer based in India with 1.5 years of industry ex
 
 :rocket: [Kaggle](https://www.kaggle.com/jaintj95)
 
-💻 [Leetcode](https://leetcode.com/codeknight11/)
+💻 [Leetcode](https://leetcode.com/jaintj95/)
 
 🏫 [MentorCruise](https://mentorcruise.com/mentor/TejasJain/)
 
