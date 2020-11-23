@@ -134,7 +134,7 @@ A Proof-of-concept Smart Street Lighting system. The FRDM-KL25Z microcontroller 
 
 ## Research Engineer
 
-***OpenMined,** Remote (Freelancing)*
+***[OpenMined](https://github.com/openmined),** Remote (Freelancing)*
 
 Role: Research Engineer
 
