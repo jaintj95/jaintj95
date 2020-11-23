@@ -136,9 +136,9 @@ A Proof-of-concept Smart Street Lighting system. The FRDM-KL25Z microcontroller 
 
 ***OpenMined,** Remote (Freelancing)*
 
-Role: Freelancing Contributor
+Role: Research Engineer
 
-(April 2020 - Present)
+(April 2020 - July 2020)
 
 - OpenMined's Research Programme involves collaboration between Research Engineers and Research Scientists for researching and publishing papers on Machine Learning under the umbrella of OpenMined.
 
