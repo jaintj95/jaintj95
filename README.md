@@ -78,10 +78,26 @@ Research Engineer
 <!--
 # 🗂️ Projects
 
-**[Deep RL (DQN) Agent](https://github.com/jaintj95/DeepQAgent_RL)**
+**[SageMaker Sentiment Analysis](https://github.com/jaintj95/SageMaker_SentimentAnalysis)**
 
-- Trained a Reinforcement Learning Agent to navigate a UnityML environment and play the Banana collection game.
-- The RL agent is based on a Deep-Q network consisting of 3 linear layers.
+- Deployed a LSTM model to Amazon SageMaker that collects data from a WebApp and performs inference on it.
+- Review from Web App is sent to Lambda function via API Gateway.
+- Lambda function invokes SageMaker endpoint where inference is performed and output is returned.
+
+**[DCGAN Face Generator](https://github.com/jaintj95/DCGAN_FaceGenerator)**
+
+- Trained a Deep Convolutional Generative Adversarial Network on a dataset of celebrity faces.
+- Experimented with Discriminators and Generators of various depths, BatchNorm layers and loss functions to produce a model that generates realistic faces.
+
+**[Behavioral Cloning for Self-Driving Cars](https://github.com/jaintj95/BehavioralCloning)**
+
+- Replicated nVidia's Deep Learning model to teach a car how to drive after learning from human driving behaviour.
+- Model learns steering angles over various turns & maintains the car in center lane in autonomous mode.
+
+**[Bounty Hub dApp (Blockchain Bootcamp Capstone Project)](https://github.com/jaintj95/Consensys_Ethereum_dApp)**
+
+- An app that allows Job Posters to post bounties or projects and Freelancers to submit work in exchange for the bounty amount.
+- This Decentralized App (Smart Contract) is written in Solidity & capable of being deployed on ETH Mainnet.
 
 **[Advanced Lane detection for Self-Driving Cars](https://github.com/jaintj95/AdvancedLaneFinding)**
 
@@ -89,36 +105,15 @@ Research Engineer
 - Implemented Computer Vision concepts such as Distortion Correction, Camera Calibration, Perspective Transform etc.
 - Experimented with different Colour spaces and Edge detection techniques.
 
-**[Bounty Hub dApp (Blockchain Bootcamp Capstone Project)](https://github.com/jaintj95/Consensys_Ethereum_dApp)**
-
-- An app that allows Job Posters to post bounties or projects and Freelancers to submit work in exchange for the bounty amount.
-- This Decentralized App (Smart Contract) is written in Solidity & capable of being deployed on ETH Mainnet.
-
-**[DCGAN Face Generator](https://github.com/jaintj95/DCGAN_FaceGenerator)**
-
-- Trained a Deep Convolutional Generative Adversarial Network on a dataset of celebrity faces.
-- Experimented with Discriminators and Generators of various depths, BatchNorm layers and loss functions to produce a model that generates realistic faces.
-
 **[Extended Kalman Filters](https://github.com/jaintj95/Extended-Kalman-Filters)**
 
 - Designed & implemented a Sensor Fusion Algorithm in C++.
 - Algorithm is based on Extended Kalman Filters for object tracking in Autonomous Vehicles.
 
-**[Behavioral Cloning for Self-Driving Cars](https://github.com/jaintj95/BehavioralCloning)**
-
-- Replicated nVidia's Deep Learning model to teach a car how to drive after learning from human driving behaviour.
-- Model learns steering angles over various turns & maintains the car in center lane in autonomous mode.
-
 **[TV Script Generation using LSTM and Embeddings](https://github.com/jaintj95/RNN_TV_script_generator)**
 
 - Used a LSTM network & Word Embeddings to generate TV script.
 - Explored NLP topics such as Tokenization, Subsampling etc.
-
-**[SageMaker Sentiment Analysis](https://github.com/jaintj95/SageMaker_SentimentAnalysis)**
-
-- Deployed a LSTM model to Amazon SageMaker that collects data from a WebApp and performs inference on it.
-- Review from Web App is sent to Lambda function via API Gateway.
-- Lambda function invokes SageMaker endpoint where inference is performed and output is returned.
 
 **[Spam Detection using Naive Bayes](https://github.com/jaintj95/Naive_Bayes_Spam_Detector)**
 
@@ -141,6 +136,7 @@ Role: Research Engineer
 (April 2020 - July 2020)
 
 - OpenMined's Research Programme involves collaboration between Research Engineers and Research Scientists for researching and publishing papers on Machine Learning under the umbrella of OpenMined.
+- I collaborated with a Research Scientist on a paper related to Federated Learning. The goal was to perform a distributed injection of adversarial samples during the training phase to successfully poison the final model aggregated at the central server.
 
 ## Machine Learning Mentor
 
@@ -150,8 +146,11 @@ Role: Independent Consultant
 
 (March 2019 - Present)
 
-- As a consultant, I utilize my specialized knowledge in the field of Machine Learning to provide code reviews and other student support services.
-- I have mentored more than 100 students so far. I primarily guide them through complex Machine Learning topics and help them pass their courses successfully.
+- As a consultant, I utilize my specialized knowledge in Machine Learning to provide project reviews and other student support services.
+- I have mentored more than 200 students so far. I primarily guide them through complex Machine Learning topics and help them pass their courses successfully.
+- Until now, I have provided personalized reviews for 1050+ project submissions and 700+ student queries.
+- Recognized and applauded for my hard work in [Udacity’s June 2020 Newsletter](https://sites.google.com/udacity.com/m-and-r-newsletter-archive/june-2020-newsletter).
+- One of the winners of [Answer Rate Acceptance Challenge](https://sites.google.com/udacity.com/m-and-r-newsletter-archive/november-2020-newsletter).
 
 ## Assistant Systems Engineer
 
@@ -230,6 +229,15 @@ GPA - 7.78
 ***Ramrao Adik Institute of Technology, University of Mumbai***
 
 2013 - 2017
+
+---
+
+# 🏛️ Organizations
+
+- **Social Wing RAIT -** Orphanage Coordinator                                  07/2015 – 06/2016
+- **Blue Ribbon Movement** (Community Connect Fellowship) – Volunteer           07/2016 – 12/2016
+- **People’s Union for Civil Liberties** (PUCL, Maharashtra) – Volunteer        03/2018 – 08/2018
+- **XDA Developers** (Contributor)                                              01/2012 – 06/2015
 
 ---
 
