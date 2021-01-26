@@ -131,15 +131,11 @@ A Proof-of-concept Smart Street Lighting system. The FRDM-KL25Z microcontroller 
 
 ***[OpenMined](https://github.com/openmined),** Remote (Freelancing)*
 
-Role: Private AI Course Mentor
-
-(January 2021 - Present)
+Role: Private AI Course Mentor (January 2021 - Present)
 
 -	OpenMined's Private AI Course series was designed to educate everyone on the impact of privacy in every industry and how to build real-world products with privacy-preserving AI technology
 
-Role: Research Engineer
-
-(April 2020 - July 2020)
+Role: Research Engineer (April 2020 - July 2020)
 
 - OpenMined's Research Programme involves collaboration between Research Engineers and Research Scientists for researching and publishing papers on Machine Learning under the umbrella of OpenMined.
 - I collaborated with a Research Scientist on a paper related to Federated Machine Learning. The goal was to perform a distributed injection of adversarial samples during the training phase to successfully poison the final model aggregated at the central server.
@@ -148,9 +144,7 @@ Role: Research Engineer
 
 ***Udacity,** Remote (Contract)*
 
-Role: Independent Consultant
-
-(March 2019 - Present)
+Role: Independent Consultant (March 2019 - Present)
 
 -	As a consultant, I utilize my specialized knowledge in Machine Learning to provide project reviews and other student support services.
 -	I have mentored more than 200 students so far and provided personalized reviews for 1050+ project submissions and 700+ student queries.
@@ -163,9 +157,7 @@ Role: Independent Consultant
 
 ***Tata Consultancy Services**, Mumbai* 
 
-Role: Junior Developer, Payments Module
-
-(July 2017 - October 2018)
+Role: Junior Developer, Payments Module (July 2017 - October 2018)
 
 **Brexit Migration**
 
