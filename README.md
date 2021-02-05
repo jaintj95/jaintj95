@@ -127,7 +127,7 @@ A Proof-of-concept Smart Street Lighting system. The FRDM-KL25Z microcontroller 
 
 # 💼 Work Experience
 
-## Research Engineer
+## Research Engineer | Private AI Course Mentor
 
 ***[OpenMined](https://github.com/openmined),** Remote (Freelancing)*
 
@@ -140,7 +140,7 @@ Role: Research Engineer (April 2020 - July 2020)
 - OpenMined's Research Programme involves collaboration between Research Engineers and Research Scientists for researching and publishing papers on Machine Learning under the umbrella of OpenMined.
 - I collaborated with a Research Scientist on a paper related to Federated Machine Learning. The goal was to perform a distributed injection of adversarial samples during the training phase to successfully poison the final model aggregated at the central server.
 
-## Machine Learning Mentor
+## Elite Machine Learning Mentor
 
 ***Udacity,** Remote (Contract)*
 
@@ -148,7 +148,8 @@ Role: Independent Consultant (March 2019 - Present)
 
 -	As a consultant, I utilize my specialized knowledge in Machine Learning to provide project reviews and other student support services.
 -	I have mentored more than 200 students so far and provided personalized reviews for 1050+ project submissions and 700+ student queries.
--	Recognized and applauded for my hard work in [Udacity’s June 2020 Newsletter](https://sites.google.com/udacity.com/m-and-r-newsletter-archive/june-2020-newsletter).
+- Recognized as an Elite Mentor based on student feedback and quality of code reviews. Elite reviewers are given preferential treatment in project queues to ensure high quality feedback for students and provide more earning opportunities for the reviewer.
+-	Applauded for my hard work in [Udacity’s June 2020 Newsletter](https://sites.google.com/udacity.com/m-and-r-newsletter-archive/june-2020-newsletter).
 -	One of the winners of [Answer Rate Acceptance Challenge](https://sites.google.com/udacity.com/m-and-r-newsletter-archive/november-2020-newsletter) (November 2020).
 -	[Winner of Mentor Community Award](https://sites.google.com/udacity.com/m-and-r-newsletter-archive/january-2021-newsletter) - peer mentors nominated me for my contribution to community and the quality of reviews I provide to Udacity students (December 2020).
 -	[Spotlight Mentor/Reviewer](https://sites.google.com/udacity.com/m-and-r-newsletter-archive/january-2021-newsletter) (January 2021).
