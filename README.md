@@ -20,7 +20,7 @@ I'm Tejas, a self taught programmer based in India with 1.5 years of industry ex
 
 [![Tejas' Github stats](https://github-readme-stats.vercel.app/api?username=jaintj95&show_icons=true&icon_color=2f80ed&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-<iframe src="https://giphy.com/embed/fsoCk5kgOcYMM" width="480" height="255" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ghost-shell-outghost-fsoCk5kgOcYMM"></a></p>
+<div style="width:100%;height:0;padding-bottom:53%;position:relative;"><iframe src="https://giphy.com/embed/fsoCk5kgOcYMM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ghost-shell-outghost-fsoCk5kgOcYMM">via GIPHY</a></p>
 
 # 🗺️ India
 
