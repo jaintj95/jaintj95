@@ -20,7 +20,6 @@ I'm Tejas, a self taught programmer based in India with 1.5 years of industry ex
 
 [![Tejas' Github stats](https://github-readme-stats.vercel.app/api?username=jaintj95&show_icons=true&icon_color=2f80ed&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-![gits.gif](http://gph.is/2doY54r)
 
 # 🗺️ India
 
