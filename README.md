@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Resume
 
+<img src="https://media.giphy.com/media/fsoCk5kgOcYMM/giphy.gif" width="800">
+
 > Hi 👋🏽
 I'm Tejas, a self taught programmer based in India with 1.5 years of industry experience and 2 years of freelancing experience in various domains. 
 
