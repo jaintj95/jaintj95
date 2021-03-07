@@ -164,14 +164,14 @@ Role: Junior Developer, Payments Module (July 2017 - October 2018)
 
 **Brexit Migration**
 
-- Praised by clients for deploying more than 20 DPUs, three months ahead of schedule. All DPUs ran successfully on production environment without any major issues.
+- Praised by clients for deploying more than 20 DPUs, 3 months ahead of schedule. All DPUs ran successfully on production environment without any major issues.
 - Migrated 12 critical file transfer interfaces under this module, aiding the clients in accelerating their migration process.
-- Rescheduled pre-configured jobs in system queue, speeding up the total file transfer time by more than a minute.
+- Rescheduled pre-configured jobs in system queue, speeding up total file transfer time by more than a minute.
 
 **Utilities Automation** 
 
-- Worked on Pathway Automation Project that completely automated the client-side package installation process and led to a massive decrease in installation issues faced by clients.
-- Automated critical monthly reporting utilities using Excel VBA macros. This led to more than 70% reduction in manual effort.
+- Worked on Pathway Automation Project that completely automated the client-side package installation process and led to a 40% decrease in installation issues faced by clients.
+- Automated critical monthly reporting utilities using Excel VBA macros. This led to more than 75% reduction in manual effort.
 
 ---
 
