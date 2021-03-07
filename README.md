@@ -245,6 +245,8 @@ GPA - 7.78
 
 # 📜 Articles
 
-[Easier to Ask for Forgiveness than Permission - A tale of Python's eccentricity](https://medium.com/@jaintj95/easier-to-ask-for-forgiveness-than-permission-a-tale-of-pythons-eccentricity-1992bb6b0764)
+[Easier to Ask for Forgiveness than Permission - A tale of Python's eccentricity](https://medium.com/@jaintj95/easier-to-ask-for-forgiveness-than-permission-a-tale-of-pythons-eccentricity-1992bb6b0764)  
+
+[Duet Demo — How to do data science on data owned by a different organization](https://medium.com/@jaintj95/duet-demo-how-to-do-data-science-on-data-owned-by-a-different-organization-5f79bad69279)
 
 ---
