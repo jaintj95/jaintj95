@@ -149,7 +149,7 @@ Role: Research Engineer (April 2020 - July 2020)
 Role: Independent Consultant (March 2019 - Present)
 
 -	As a consultant, I utilize my specialized knowledge in Machine Learning to provide project reviews and other student support services.
--	I have mentored more than 200 students so far and provided personalized reviews for 1050+ project submissions and 700+ student queries.
+-	I have mentored more than 200 students so far and provided personalized reviews for 1600+ project submissions and 1100+ student queries.
 - Recognized as an Elite Mentor based on student feedback and quality of code reviews. Elite reviewers are given preferential treatment in project queues to ensure high quality feedback for students and provide more earning opportunities for the reviewer.
 -	Applauded for my hard work in [Udacity’s June 2020 Newsletter](https://sites.google.com/udacity.com/m-and-r-newsletter-archive/june-2020-newsletter).
 -	One of the winners of [Answer Rate Acceptance Challenge](https://sites.google.com/udacity.com/m-and-r-newsletter-archive/november-2020-newsletter) (November 2020).
