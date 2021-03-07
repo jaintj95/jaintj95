@@ -198,6 +198,20 @@ Role: Junior Developer, Payments Module (July 2017 - October 2018)
 
 ---
 
+# 📚 Education
+
+## Bachelor of Engineering
+
+***Major: Electronics & Telecommunication***
+
+GPA - 7.78
+
+***Ramrao Adik Institute of Technology, University of Mumbai***
+
+2013 - 2017
+
+---
+
 # 🗣 Languages
 
 <!---
@@ -217,20 +231,6 @@ Elementary Proficiency
 |      English 🇺🇸          |    Hindi  🇮🇳    |    German   :de:       |
 | ------------------------ | -------------- | ---------------------- |
 | Full Working Proficiency | Native Speaker | Elementary Proficiency |
-
----
-
-# 📚 Education
-
-## Bachelor of Engineering
-
-***Major: Electronics & Telecommunication***
-
-GPA - 7.78
-
-***Ramrao Adik Institute of Technology, University of Mumbai***
-
-2013 - 2017
 
 ---
 
