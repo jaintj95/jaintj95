@@ -31,9 +31,9 @@ I'm Tejas, a self taught programmer based in India with 1.5 years of industry ex
 
 💻 [Leetcode](https://leetcode.com/jaintj95/)
 
-🏫 [MentorCruise](https://mentorcruise.com/mentor/TejasJain/)
+🏫 [MentorCruise](https://mentors.to/tj)
 
-💻 [HackerNoon Blog](https://hackernoon.com/@jaintj95)
+💻 [Medium Blog](https://medium.com/@jaintj95)
 
 ---
 
