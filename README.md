@@ -33,7 +33,7 @@ I'm Tejas, a self taught programmer based in India with 1.5 years of industry ex
 
 🏫 [MentorCruise](https://mentors.to/tj)
 
-💻 [Medium Blog](https://medium.com/@jaintj95)
+💻 [Medium Blog](https://medium.com/@jaintj)
 
 ---
 
